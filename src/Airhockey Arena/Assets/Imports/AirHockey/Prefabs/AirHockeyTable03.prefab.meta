@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 953b04e8c8e2df44eb0da6c7269941d3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257736
+  packageName: Air Hockey Tables
+  packageVersion: 1.0
+  assetPath: Assets/AirHockey/Prefabs/AirHockeyTable03.prefab
+  uploadId: 816312

@@ -1,0 +1,66 @@
+{
+    "Mallet": {
+        "checkpoints": [
+            {
+                "steps": 1970016,
+                "file_path": ".\\Results\\SelfPlay02\\Mallet\\Mallet-1970016.onnx",
+                "reward": 0.06459591218403407,
+                "creation_time": 1782393665.9447203,
+                "auxillary_file_paths": [
+                    ".\\Results\\SelfPlay02\\Mallet\\Mallet-1970016.pt"
+                ]
+            },
+            {
+                "steps": 1999669,
+                "file_path": ".\\Results\\SelfPlay02\\Mallet\\Mallet-1999669.onnx",
+                "reward": 0.14920492288542958,
+                "creation_time": 1782398748.4480374,
+                "auxillary_file_paths": [
+                    ".\\Results\\SelfPlay02\\Mallet\\Mallet-1999669.pt"
+                ]
+            },
+            {
+                "steps": 2999719,
+                "file_path": ".\\Results\\SelfPlay02\\Mallet\\Mallet-2999719.onnx",
+                "reward": 0.21311570947267572,
+                "creation_time": 1782400779.5436873,
+                "auxillary_file_paths": [
+                    ".\\Results\\SelfPlay02\\Mallet\\Mallet-2999719.pt"
+                ]
+            },
+            {
+                "steps": 2999949,
+                "file_path": ".\\Results\\SelfPlay02\\Mallet\\Mallet-2999949.onnx",
+                "reward": 0.7383705854415894,
+                "creation_time": 1782401835.162074,
+                "auxillary_file_paths": [
+                    ".\\Results\\SelfPlay02\\Mallet\\Mallet-2999949.pt"
+                ]
+            },
+            {
+                "steps": 3500734,
+                "file_path": ".\\Results\\SelfPlay02\\Mallet\\Mallet-3500734.onnx",
+                "reward": 0.5105008322459,
+                "creation_time": 1782402978.4963408,
+                "auxillary_file_paths": [
+                    ".\\Results\\SelfPlay02\\Mallet\\Mallet-3500734.pt"
+                ]
+            }
+        ],
+        "elo": 1334.1112669412928,
+        "final_checkpoint": {
+            "steps": 3500734,
+            "file_path": ".\\Results\\SelfPlay02\\Mallet.onnx",
+            "reward": 0.5105008322459,
+            "creation_time": 1782402978.4963408,
+            "auxillary_file_paths": [
+                ".\\Results\\SelfPlay02\\Mallet\\Mallet-3500734.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

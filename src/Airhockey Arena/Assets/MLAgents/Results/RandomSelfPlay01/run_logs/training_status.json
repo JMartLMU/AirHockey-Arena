@@ -1,0 +1,39 @@
+{
+    "Mallet": {
+        "checkpoints": [
+            {
+                "steps": 999583,
+                "file_path": ".\\Results\\RandomSelfPlay01\\Mallet\\Mallet-999583.onnx",
+                "reward": -0.21527327100435892,
+                "creation_time": 1782405413.5146844,
+                "auxillary_file_paths": [
+                    ".\\Results\\RandomSelfPlay01\\Mallet\\Mallet-999583.pt"
+                ]
+            },
+            {
+                "steps": 1000114,
+                "file_path": ".\\Results\\RandomSelfPlay01\\Mallet\\Mallet-1000114.onnx",
+                "reward": -0.13197781331837177,
+                "creation_time": 1782405413.6017857,
+                "auxillary_file_paths": [
+                    ".\\Results\\RandomSelfPlay01\\Mallet\\Mallet-1000114.pt"
+                ]
+            }
+        ],
+        "elo": 1190.4520897821778,
+        "final_checkpoint": {
+            "steps": 1000114,
+            "file_path": ".\\Results\\RandomSelfPlay01\\Mallet.onnx",
+            "reward": -0.13197781331837177,
+            "creation_time": 1782405413.6017857,
+            "auxillary_file_paths": [
+                ".\\Results\\RandomSelfPlay01\\Mallet\\Mallet-1000114.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

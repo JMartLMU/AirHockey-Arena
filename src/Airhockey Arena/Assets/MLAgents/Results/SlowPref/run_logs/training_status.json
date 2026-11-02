@@ -1,0 +1,66 @@
+{
+    "Mallet": {
+        "checkpoints": [
+            {
+                "steps": 199277,
+                "file_path": ".\\Results/SlowPref\\Mallet\\Mallet-199277.onnx",
+                "reward": 0.4116283547133207,
+                "creation_time": 1782409979.721759,
+                "auxillary_file_paths": [
+                    ".\\Results/SlowPref\\Mallet\\Mallet-199277.pt"
+                ]
+            },
+            {
+                "steps": 299981,
+                "file_path": ".\\Results/SlowPref\\Mallet\\Mallet-299981.onnx",
+                "reward": 0.27860094513744116,
+                "creation_time": 1782410199.3674824,
+                "auxillary_file_paths": [
+                    ".\\Results/SlowPref\\Mallet\\Mallet-299981.pt"
+                ]
+            },
+            {
+                "steps": 399639,
+                "file_path": ".\\Results/SlowPref\\Mallet\\Mallet-399639.onnx",
+                "reward": -0.7803068459033966,
+                "creation_time": 1782410413.0510306,
+                "auxillary_file_paths": [
+                    ".\\Results/SlowPref\\Mallet\\Mallet-399639.pt"
+                ]
+            },
+            {
+                "steps": 499046,
+                "file_path": ".\\Results/SlowPref\\Mallet\\Mallet-499046.onnx",
+                "reward": 0.39373735412955285,
+                "creation_time": 1782410636.300305,
+                "auxillary_file_paths": [
+                    ".\\Results/SlowPref\\Mallet\\Mallet-499046.pt"
+                ]
+            },
+            {
+                "steps": 500046,
+                "file_path": ".\\Results/SlowPref\\Mallet\\Mallet-500046.onnx",
+                "reward": 0.39373735412955285,
+                "creation_time": 1782410636.5289707,
+                "auxillary_file_paths": [
+                    ".\\Results/SlowPref\\Mallet\\Mallet-500046.pt"
+                ]
+            }
+        ],
+        "elo": 1209.4289938406212,
+        "final_checkpoint": {
+            "steps": 500046,
+            "file_path": ".\\Results/SlowPref\\Mallet.onnx",
+            "reward": 0.39373735412955285,
+            "creation_time": 1782410636.5289707,
+            "auxillary_file_paths": [
+                ".\\Results/SlowPref\\Mallet\\Mallet-500046.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

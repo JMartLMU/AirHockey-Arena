@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3e1c1c671109b574a98b510c80a9b6f2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257736
+  packageName: Air Hockey Tables
+  packageVersion: 1.0
+  assetPath: Assets/AirHockey/DemoScene/AirHockeyTable/Main Camera Profile.asset
+  uploadId: 816312

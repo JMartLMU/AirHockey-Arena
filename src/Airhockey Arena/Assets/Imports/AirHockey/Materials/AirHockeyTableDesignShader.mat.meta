@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 66979c56e09324749bb746c628f59fbd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257736
+  packageName: Air Hockey Tables
+  packageVersion: 1.0
+  assetPath: Assets/AirHockey/Materials/AirHockeyTableDesignShader.mat
+  uploadId: 816312

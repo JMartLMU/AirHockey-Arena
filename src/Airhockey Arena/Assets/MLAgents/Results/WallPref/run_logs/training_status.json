@@ -1,0 +1,66 @@
+{
+    "Mallet": {
+        "checkpoints": [
+            {
+                "steps": 199852,
+                "file_path": ".\\Results/WallPref\\Mallet\\Mallet-199852.onnx",
+                "reward": 0.1436370627488941,
+                "creation_time": 1782411183.2539468,
+                "auxillary_file_paths": [
+                    ".\\Results/WallPref\\Mallet\\Mallet-199852.pt"
+                ]
+            },
+            {
+                "steps": 299998,
+                "file_path": ".\\Results/WallPref\\Mallet\\Mallet-299998.onnx",
+                "reward": 0.37287474671999615,
+                "creation_time": 1782411423.0310006,
+                "auxillary_file_paths": [
+                    ".\\Results/WallPref\\Mallet\\Mallet-299998.pt"
+                ]
+            },
+            {
+                "steps": 399542,
+                "file_path": ".\\Results/WallPref\\Mallet\\Mallet-399542.onnx",
+                "reward": 0.1416814588010311,
+                "creation_time": 1782411643.9757671,
+                "auxillary_file_paths": [
+                    ".\\Results/WallPref\\Mallet\\Mallet-399542.pt"
+                ]
+            },
+            {
+                "steps": 499695,
+                "file_path": ".\\Results/WallPref\\Mallet\\Mallet-499695.onnx",
+                "reward": 0.24523903367420039,
+                "creation_time": 1782411888.980788,
+                "auxillary_file_paths": [
+                    ".\\Results/WallPref\\Mallet\\Mallet-499695.pt"
+                ]
+            },
+            {
+                "steps": 500421,
+                "file_path": ".\\Results/WallPref\\Mallet\\Mallet-500421.onnx",
+                "reward": 0.09949060369815145,
+                "creation_time": 1782411889.0554938,
+                "auxillary_file_paths": [
+                    ".\\Results/WallPref\\Mallet\\Mallet-500421.pt"
+                ]
+            }
+        ],
+        "elo": 1202.982796428656,
+        "final_checkpoint": {
+            "steps": 500421,
+            "file_path": ".\\Results/WallPref\\Mallet.onnx",
+            "reward": 0.09949060369815145,
+            "creation_time": 1782411889.0554938,
+            "auxillary_file_paths": [
+                ".\\Results/WallPref\\Mallet\\Mallet-500421.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Mallet": {
+        "checkpoints": [
+            {
+                "steps": 499933,
+                "file_path": "results\\MalletBC02\\Mallet\\Mallet-499933.onnx",
+                "reward": 0.41909517291933296,
+                "creation_time": 1782389468.4022048,
+                "auxillary_file_paths": [
+                    "results\\MalletBC02\\Mallet\\Mallet-499933.pt"
+                ]
+            },
+            {
+                "steps": 500061,
+                "file_path": "results\\MalletBC02\\Mallet\\Mallet-500061.onnx",
+                "reward": 0.41909517291933296,
+                "creation_time": 1782389468.4823442,
+                "auxillary_file_paths": [
+                    "results\\MalletBC02\\Mallet\\Mallet-500061.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500061,
+            "file_path": "results\\MalletBC02\\Mallet.onnx",
+            "reward": 0.41909517291933296,
+            "creation_time": 1782389468.4823442,
+            "auxillary_file_paths": [
+                "results\\MalletBC02\\Mallet\\Mallet-500061.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

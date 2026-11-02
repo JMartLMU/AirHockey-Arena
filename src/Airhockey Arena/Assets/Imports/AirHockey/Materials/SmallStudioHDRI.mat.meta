@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 49a5f56153d5430479d496a28688c172
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257736
+  packageName: Air Hockey Tables
+  packageVersion: 1.0
+  assetPath: Assets/AirHockey/Materials/SmallStudioHDRI.mat
+  uploadId: 816312

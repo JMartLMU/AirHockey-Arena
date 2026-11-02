@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3c5806516773d6646a0ad22534727739
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257736
+  packageName: Air Hockey Tables
+  packageVersion: 1.0
+  assetPath: Assets/AirHockey/Materials/Carpet.mat
+  uploadId: 816312

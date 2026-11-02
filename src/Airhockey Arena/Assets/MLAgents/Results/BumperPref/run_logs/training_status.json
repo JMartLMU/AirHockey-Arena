@@ -1,0 +1,66 @@
+{
+    "Mallet": {
+        "checkpoints": [
+            {
+                "steps": 199577,
+                "file_path": ".\\Results\\BumperPref\\Mallet\\Mallet-199577.onnx",
+                "reward": 0.04800365939736366,
+                "creation_time": 1782406809.0815053,
+                "auxillary_file_paths": [
+                    ".\\Results\\BumperPref\\Mallet\\Mallet-199577.pt"
+                ]
+            },
+            {
+                "steps": 299884,
+                "file_path": ".\\Results\\BumperPref\\Mallet\\Mallet-299884.onnx",
+                "reward": 0.35523483753204343,
+                "creation_time": 1782407024.2763584,
+                "auxillary_file_paths": [
+                    ".\\Results\\BumperPref\\Mallet\\Mallet-299884.pt"
+                ]
+            },
+            {
+                "steps": 399258,
+                "file_path": ".\\Results\\BumperPref\\Mallet\\Mallet-399258.onnx",
+                "reward": 0.2587874029763043,
+                "creation_time": 1782407224.702173,
+                "auxillary_file_paths": [
+                    ".\\Results\\BumperPref\\Mallet\\Mallet-399258.pt"
+                ]
+            },
+            {
+                "steps": 499717,
+                "file_path": ".\\Results\\BumperPref\\Mallet\\Mallet-499717.onnx",
+                "reward": 0.03764445074768954,
+                "creation_time": 1782407442.7159688,
+                "auxillary_file_paths": [
+                    ".\\Results\\BumperPref\\Mallet\\Mallet-499717.pt"
+                ]
+            },
+            {
+                "steps": 500605,
+                "file_path": ".\\Results\\BumperPref\\Mallet\\Mallet-500605.onnx",
+                "reward": 0.01907530223781412,
+                "creation_time": 1782407442.7914245,
+                "auxillary_file_paths": [
+                    ".\\Results\\BumperPref\\Mallet\\Mallet-500605.pt"
+                ]
+            }
+        ],
+        "elo": 1188.5686021168458,
+        "final_checkpoint": {
+            "steps": 500605,
+            "file_path": ".\\Results\\BumperPref\\Mallet.onnx",
+            "reward": 0.01907530223781412,
+            "creation_time": 1782407442.7914245,
+            "auxillary_file_paths": [
+                ".\\Results\\BumperPref\\Mallet\\Mallet-500605.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

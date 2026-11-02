@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dcb181e2c4be3ad4094ca5b621cffef9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 257736
+  packageName: Air Hockey Tables
+  packageVersion: 1.0
+  assetPath: Assets/AirHockey/Prefabs/HandleRed.prefab
+  uploadId: 816312
